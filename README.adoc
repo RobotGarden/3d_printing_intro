@@ -1,4 +1,38 @@
-= Introduction to 3D Printing.
+:imagesdir: ./images
+:toc: macro
+
+toc::[]
+
+= Introduction to Computer Aided Design and Manufacture
+
+CAD is a wide topic. The 'Introduction to CAD' explores the many ways computers are used for design. Further it touches on the ways those designs can be brought to life with CAM or Computer Aided Manufacture.
+
+Our 'Introduction to 3D printing' refines this exploration and looking at simple 3D printing concepts.
+
+link:http://www.freecadweb.org/[FreeCAD] is
+link:https://en.wikipedia.org/wiki/FOSS[Free, Open Source Software].
+We 
+
+== Introduction to CAD
+* link:Intro_CAD.odp[The Slide Show. Make changes here]
+* link:Intro_CAD.pdf[The PDF Version. Generated from the slide show.]
+
+
+== Introduction to 3D Printing
 
 * link:Intro_3d_printing.odp[The Slide Show. Make changes here]
 * link:Intro_3d_printing.pdf[The PDF Version. Generated from the slide show.]
+
+== FreeCAD
+
+* More to come!
+
+== OpenSCAD
+* link:https://github.com/RobotGarden/openscad-intro[Outline]
+* link:https://github.com/RobotGarden/openscad-intro/blob/master/part1.adoc[Part 1]
+* link:https://github.com/RobotGarden/openscad-intro/blob/master/part2.adoc[Part 2]
+
+== 3D Scanning
+* link:DIY_Scanners.odp[The Slide Show. Make changes here]
+* link:DIY_Scanners.pdf[The PDF Version. Generated from the slide show.]
+
