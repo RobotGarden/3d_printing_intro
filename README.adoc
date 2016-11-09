@@ -14,8 +14,8 @@ link:https://en.wikipedia.org/wiki/FOSS[Free, Open Source Software].
 We 
 
 == Introduction to CAD
-* link:Intro_CAD.odp[The Slide Show. Make changes here]
-* link:Intro_CAD.pdf[The PDF Version. Generated from the slide show.]
+* link:Intro_3d_CAD.odp[The Slide Show. Make changes here]
+* link:Intro_3d_CAD.pdf[The PDF Version. Generated from the slide show.]
 
 
 == Introduction to 3D Printing
@@ -25,7 +25,10 @@ We
 
 == FreeCAD
 
-* More to come!
+* link:http://www.robotgarden.org/wiki/freecad/[FreeCAD]
+* link:http://www.robotgarden.org/wiki/freecad/freecad-studygroup-session1/[Session 1]
+* link:http://www.robotgarden.org/wiki/freecad/freecad-studygroup-session2/[Session 2]
+* link:http://www.robotgarden.org/wiki/freecad/freecad-studygroup-session3/[Session 3]
 
 == OpenSCAD
 * link:https://github.com/RobotGarden/openscad-intro[Outline]
