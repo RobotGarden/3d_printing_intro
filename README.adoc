@@ -23,6 +23,11 @@ We
 * link:Intro_3d_printing.odp[The Slide Show. Make changes here]
 * link:Intro_3d_printing.pdf[The PDF Version. Generated from the slide show.]
 
+== Introduction to Laser Cutting and Etching
+
+* link:Intro_lasercutter_engraver.odp[The Slide Show. Make changes here]
+* link:Intro_lasercutter_engraver.pdf[The PDF Version. Generated from the slide show.]
+
 == FreeCAD
 
 * link:http://www.robotgarden.org/wiki/freecad/[FreeCAD]
